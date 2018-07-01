@@ -37,7 +37,7 @@ div.content{
 h2.position{
 	position: absolute;
 	right: 0;
-	top: -20px;
+	top: -24px;
 	border: 2px solid black;
 	width: 150px;
 	text-align: center;
@@ -57,7 +57,7 @@ h2#parahd3{
 
 p{
 	
-	margin-top: 40px;
+	margin-top: 42px;
 	padding: 0 5px;
 }
 
